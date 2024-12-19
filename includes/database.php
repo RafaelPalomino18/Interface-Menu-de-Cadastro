@@ -1,7 +1,7 @@
 <?php
 $servidor = "localhost";  // Endereço do servidor
 $usuario = "root"; // Nome de usuário do banco de dados
-$senha = "011204";     // Senha do banco de dados
+$senha = "";     // Senha do banco de dados
 $banco = "biblioteca"; // Nome do banco de dados
 
 $message="";
